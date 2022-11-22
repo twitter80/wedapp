@@ -1,4 +1,0 @@
-grafana
-Newrelic
-servicenow
-pometus
