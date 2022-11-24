@@ -4,3 +4,4 @@
 # author BolaLawal
 # this is a fe app
 # bugs removed
+print("welcome to twitter")
